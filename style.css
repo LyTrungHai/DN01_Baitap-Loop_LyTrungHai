@@ -1,0 +1,26 @@
+/* GLOBAL  */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.col-4 {
+  border: 1px solid saddlebrown;
+  border-radius: 10px;
+}
+
+button {
+  margin: 17px 0;
+}
+
+.bg-red {
+  background-color: red;
+  color: #fff;
+  font-size: 17px;
+}
+.bg-blue {
+  background-color: blue;
+  color: #fff;
+  font-size: 17px;
+}
